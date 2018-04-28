@@ -1,3 +1,5 @@
 implementation
 node_modules
 build
+.DS_Store
+*.log
